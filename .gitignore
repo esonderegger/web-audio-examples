@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Destination directory
+dest/*
+
+# Mac hidden files
+.DS_Store

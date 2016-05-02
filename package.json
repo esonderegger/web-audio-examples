@@ -1,0 +1,39 @@
+{
+  "name": "web-audio-examples",
+  "version": "1.0.0",
+  "description": "Examples of how to use html5-audio-controls and web-audio-meters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esonderegger/web-audio-examples.git"
+  },
+  "keywords": [
+    "web",
+    "audio",
+    "html5"
+  ],
+  "author": "Evan Sonderegger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esonderegger/web-audio-examples/issues"
+  },
+  "homepage": "https://github.com/esonderegger/web-audio-examples#readme",
+  "dependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-hb": "^5.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "html5-audio-controls": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "web-audio-peak-meter": "^1.0.0"
+  }
+}

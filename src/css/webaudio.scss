@@ -1,0 +1,26 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: sans-serif;
+}
+
+.outermost {
+  width: 40em;
+  margin: 0em auto;
+}
+
+#playerControls {
+  width: 36em;
+  height: 3em;
+  margin: 1em;
+}
+
+#dynamicPeaks {
+  width: 6em;
+  height: 40em;
+  // height: 100vh;
+  margin: 1em;
+  // position: fixed;
+  // top: 0;
+  // right: 0;
+}
